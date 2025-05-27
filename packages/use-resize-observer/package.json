@@ -1,6 +1,6 @@
 {
   "name": "@bedrock-layout/use-resize-observer",
-  "version": "2.0.17",
+  "version": "2.0.18",
   "description": "bedrock-layout useResizeObserver",
   "sideEffects": false,
   "private": false,
@@ -58,7 +58,7 @@
     "react": "^16.8 || ^17 || ^18"
   },
   "dependencies": {
-    "@bedrock-layout/register-resize-callback": "^2.0.14",
-    "@bedrock-layout/use-stateful-ref": "^2.0.16"
+    "@bedrock-layout/register-resize-callback": "^2.0.15",
+    "@bedrock-layout/use-stateful-ref": "^2.0.17"
   }
 }

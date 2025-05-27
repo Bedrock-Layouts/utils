@@ -1,6 +1,6 @@
 {
   "name": "@bedrock-layout/use-container-query",
-  "version": "2.0.17",
+  "version": "2.0.18",
   "description": "bedrock-layout useContainerQuery",
   "sideEffects": false,
   "private": false,
@@ -57,7 +57,7 @@
     "react": "^16.8 || ^17 || ^18"
   },
   "dependencies": {
-    "@bedrock-layout/use-forwarded-ref": "^2.0.16",
-    "@bedrock-layout/use-resize-observer": "^2.0.17"
+    "@bedrock-layout/use-forwarded-ref": "^2.0.17",
+    "@bedrock-layout/use-resize-observer": "^2.0.18"
   }
 }
